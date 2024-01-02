@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe7ae25e.css",
+    "main.js": "/static/js/main.4f06212e.js",
+    "static/media/IMG_3130.png": "/static/media/IMG_3130.db241fb27e4b6910b177.png",
+    "static/media/habeshaN.jpg": "/static/media/habeshaN.b049605d4a0660c01bc9.jpg",
+    "static/media/Management.pdf": "/static/media/Management.95afbda8e781adb5fa76.pdf",
+    "static/media/44.PNG": "/static/media/44.782fa2a35e2e8feec472.PNG",
+    "static/media/55.PNG": "/static/media/55.369dec943177e8f7778a.PNG",
+    "static/media/1.PNG": "/static/media/1.d0469541cc7aa8bdd5be.PNG",
+    "static/media/77.PNG": "/static/media/77.0eea4bd39b70eaabc138.PNG",
+    "static/media/3.PNG": "/static/media/3.9a02419e05e9500f83e0.PNG",
+    "static/media/9.jpg": "/static/media/9.9dde5338bd3edf1d530d.jpg",
+    "static/media/66.png": "/static/media/66.bf2b455d8f0818d9d846.png",
+    "static/media/2.PNG": "/static/media/2.e2964d35da579c6c6653.PNG",
+    "static/media/66.PNG": "/static/media/66.97a36f5a969d203e2f24.PNG",
+    "static/media/photo_2.jpg": "/static/media/photo_2.07e39f1bbba50c1c8d7c.jpg",
+    "static/media/photo_5.jpg": "/static/media/photo_5.219c79cafe156211c511.jpg",
+    "static/media/photo_4.jpg": "/static/media/photo_4.6a3a9aae228e61ed4db3.jpg",
+    "static/media/photo_3.jpg": "/static/media/photo_3.2837d1e72ad5aa68426b.jpg",
+    "static/media/photo_6.PNG": "/static/media/photo_6.43ad38a700e58f19ed14.PNG",
+    "static/media/brand.PNG": "/static/media/brand.bc100ac2882c7c9221cb.PNG",
+    "static/media/photo_1.jpg": "/static/media/photo_1.e20d293fd504c8fc4091.jpg",
+    "static/media/88.PNG": "/static/media/88.d9ce5354475ba4825655.PNG",
+    "static/media/01.png": "/static/media/01.03ed1f851823961a7159.png",
+    "index.html": "/index.html",
+    "main.fe7ae25e.css.map": "/static/css/main.fe7ae25e.css.map",
+    "main.4f06212e.js.map": "/static/js/main.4f06212e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe7ae25e.css",
+    "static/js/main.4f06212e.js"
+  ]
+}
